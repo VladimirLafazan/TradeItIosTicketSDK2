@@ -1,4 +1,8 @@
 # Changelog
+## [2.0.19]
+### Changed
+- Replace deprecated UIWebView with WKWebView
+
 ## [2.0.17]
 ### Changed
 - Set light mode on Yahoo Finance screens
